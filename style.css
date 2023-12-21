@@ -72,7 +72,7 @@ p.iftar{
 footer p{
     font-weight: bolder;
 }
-
+/* 
 .weather.loading{
     visibility: hidden;
     max-height: 20px;
@@ -85,4 +85,4 @@ footer p{
     color: #fff;
     position: absolute;
     top: 0;
-}
+} */
